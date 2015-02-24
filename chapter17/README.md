@@ -1,4 +1,4 @@
-# Code for Off-shore Helicopter Routing
+### Code for Off-shore Helicopter Routing
 
 (Chapter 17 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*, Third Edition)
 
