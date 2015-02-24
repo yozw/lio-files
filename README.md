@@ -1,6 +1,6 @@
-# Linear and Integer Optimization: Theory and Practice
+### Supplemental code and data files for Linear and Integer Optimization: Theory and Practice
 
-This repository contains model source code and data files for the book: Sierksma and Zwols, *Linear and Integer
+This git repository contains model source code and data files for the book: Sierksma and Zwols, *Linear and Integer
 Optimization: Theory and Practice, Third Edition* (2015).
 
-The files are available for download at https://www.lio.yoriz.co.uk.
+For more information, see http://www.lio.yoriz.co.uk.
