@@ -1,3 +1,6 @@
+## # A portfolio selection problem
+## See Section 1.6.5 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+
 param S;
 param n;
 param lambda >= 0;

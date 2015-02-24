@@ -1,5 +1,3 @@
-# Model (11.11)
-
 param T;
 param s0;
 param gamma;

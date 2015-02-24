@@ -1,4 +1,6 @@
-# (O1)
+## # Conflicting objectives: producing versus importing; model (O1)
+## See Chapter 14 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+
 param K;				# number of tubes
 param d{k in 1..K};			# demand
 param p{k in 1..K};			# selling price

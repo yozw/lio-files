@@ -1,3 +1,6 @@
+## # The diet problem
+## See Section 1.6.1 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+
 var x1 >= 0;
 var x2 >= 0;
 var x3 >= 0;

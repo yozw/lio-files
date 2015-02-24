@@ -1,6 +1,6 @@
 ### Code for Off-shore Helicopter Routing
 
-(Chapter 17 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*, Third Edition)
+See Chapter 17 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*, Third Edition
 
 Prerequisites on Linux:
 * GNU C++ (G++) version 4.6 or higher

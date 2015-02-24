@@ -1,3 +1,6 @@
+## # Data envelopment analysis
+## See Section 1.6.4 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+
 set INPUT;
 set OUTPUT;
 

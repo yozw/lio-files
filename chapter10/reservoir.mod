@@ -1,3 +1,6 @@
+## # Designing a reservoir for irrigation
+## See Chapter 10 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+
 param T;
 param Qin   {t in 1..T} >= 0;
 param alpha {t in 1..T} >= 0;

@@ -1,4 +1,5 @@
-# Model (PP5)
+## # Production planning: a single product case; model (PP5)
+## See Chapter 12 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
 
 param T;
 param s0;

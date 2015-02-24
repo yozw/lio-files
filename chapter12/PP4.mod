@@ -1,4 +1,5 @@
-# Model (PP4)
+## # Production planning: a single product case; model (PP4)
+## See Chapter 12 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
 
 param T;
 param s0;

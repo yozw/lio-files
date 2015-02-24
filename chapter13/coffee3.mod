@@ -1,3 +1,6 @@
+## # Production of coffee machines
+## See Chapter 13 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+
 param m;
 param nperiods;
 
