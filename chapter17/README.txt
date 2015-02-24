@@ -6,6 +6,6 @@ Compiling:
   make
 
 Running:
-  ./helicopter platform.txt demand.txt
+  ./helicopter data/platform.txt data/demand.txt
 
 
