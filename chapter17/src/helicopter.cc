@@ -1,4 +1,5 @@
-/* Off-shore Helicopter Routing Solver
+/*
+ * Off-shore Helicopter Routing Solver
  * Copyright (C) 2013 Y. Zwols
  *
  * Permission is hereby granted, free of charge, to any person obtaining
