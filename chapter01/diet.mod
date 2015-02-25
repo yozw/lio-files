@@ -1,5 +1,5 @@
 ## # The diet problem
-## (See Section 1.6.1 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.)
+## From: Section 1.6.1 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
 ##
 ## A doctor prescribes to a patient exact amounts of daily vitamin A and vitamin C intake. Specifically, the patient
 ## should choose her diet so as to consume exactly 3 milligrams of vitamin A and exactly 75 milligrams of vitamin C.
