@@ -55,7 +55,7 @@
 ## $\sum_{i=1}^n (R_i^s - \mu_i) x_i$ inside the absolute value bars. Next, we write $u_s = u_s^+ - u_s^-$ and 
 ## $|u_s| = u_s^+ + u_s^-$. This results in the following linear optimization model:
 ## <div class="display">
-## <table>
+## <table class="lo-model align-left">
 ## <tr><td align=left>$\max$</td><td align=left>$\displaystyle\lambda\sum_{i=1}^n \mu_i x_i - \frac{1}{S}\sum_{s=1}^S \left(u_s^+ + u_s^-\right)$</td></tr>
 ## <tr><td align=left>$\mbox{subject to}$</td><td align=left>$\displaystyle\sum_{i=1}^n x_i = 1$</td></tr>
 ## <tr><td align=left></td><td align=left>$u_s^+ - u_s^- = \displaystyle \sum_{i=1}^n (R_i^s - \mu_i) x_i$ for $s=1, \ldots, S$</td></tr>

@@ -18,7 +18,7 @@
 ## The relative efficiency of DMU $k$ can then be formulated as follows:
 ##
 ## <div class="display">
-## <table>
+## <table class="lo-model align-left">
 ## <tr><td align=left>$RE^*(k) = $</td><td align=left>$\max$</td><td align=left>$v_{1k}y_1  + \ldots + v_{nk}y_n$</td></tr>
 ## <tr><td></td><td align=left>$\mbox{subject to}$</td><td align=left>$u_{1k}x_1  + \ldots + u_{mk}x_m  = 1$</td></tr>
 ## <tr><td></td><td></td><td align=left>$v_{1r}y_1  + \ldots + v_{nr}y_n  - u_{1r}x_1  - \ldots - u_{mr}x_m  \leq 0$ for $r = 1,\ldots,N$</td></tr>
