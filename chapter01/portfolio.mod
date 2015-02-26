@@ -44,6 +44,7 @@
 ##
 ## <div class="display">
 ## <table>
+## <table class="lo-model align-left">
 ## <tr><td align=left>$\max$</td><td align=left>$\displaystyle\lambda\sum_{i=1}^n \mu_i x_i - \frac{1}{S}\sum_{s=1}^S \left|\sum_{i=1}^n (R_i^s - \mu_i) x_i\right|$</td></tr>
 ## <tr><td align=left>$\mbox{subject to}$</td><td align=left>$\displaystyle\sum_{i=1}^n x_i = 1$</td></tr>
 ## <tr><td></td><td align=left>$x_1, \ldots, x_n\geq 0$</td></tr>
