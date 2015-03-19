@@ -1,5 +1,7 @@
-## # Minimizing trimloss when cutting cardboard; knapsack problem
-## See Chapter 16 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+/**
+# Minimizing trimloss when cutting cardboard; knapsack problem
+See Chapter 16 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+*/
 
 var x1 >= 0, <= 2, integer;
 var x2 >= 0, <= 4, integer;

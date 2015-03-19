@@ -1,5 +1,7 @@
-## # The catering service problem
-## See Chapter 18 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+/**
+# The catering service problem
+See Chapter 18 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+*/
 
 param T;
 param M;

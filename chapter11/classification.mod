@@ -1,5 +1,7 @@
-## # Classifying documents by language
-## See Chapter 11 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+/**
+# Classifying documents by language
+See Chapter 11 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+*/
 
 param N1;                     # number of English documents in learning set
 param N2;                     # number of Dutch documents in learning set

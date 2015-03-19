@@ -1,5 +1,7 @@
-## # Coalition formation and profit distribution
-## See Chapter 15 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+/**
+# Coalition formation and profit distribution
+See Chapter 15 of Sierksma and Zwols, *Linear and Integer Optimization: Theory and Practice*.
+*/
 
 param n;	                # number of players
 param m;	                # number of inputs
