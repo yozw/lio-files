@@ -30,6 +30,11 @@ subject to Vt_ub {t in 1..T}:                                        # (10.6)
 subject to defV0:                                                    # (10.7)
   V[0] = V[T];
 
+solve;
+
+table t01 {t in 1..T} OUT "GCHART" "Optimal solution" "LineChart" : 
+    t~Month, Qirr[t], Qout[t], V[t];
+
 data;
 
 param T := 12;
